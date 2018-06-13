@@ -1,0 +1,45 @@
+#truc-haut{
+	background-color: white;
+}
+
+#deuxième-navbar{
+margin-top: 15%; 
+
+}
+
+#titre{
+	text-align: center;
+	
+}
+
+.general
+{
+	border: 1px solid black;
+}
+.nom{
+	text-align: center;
+	text-decoration: underline;
+}
+.post
+{
+	display: flex;
+	flex-direction: row;
+}
+.sujet{
+	flex: 1;
+	text-align: center;
+}
+.phrase
+{
+	flex: 9;
+}
+.identifiant
+{
+	flex: 4;
+	text-align: center;
+}
+.date
+{
+	flex:5;
+	text-align: center;
+}
